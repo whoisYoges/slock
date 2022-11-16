@@ -1,5 +1,7 @@
 slock
 slock-1.5.tar.gz
 config.h
+explicit_bzero.o
+slock.o
 *.orig
 *.rej
